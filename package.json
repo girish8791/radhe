@@ -1,5 +1,6 @@
 {
   "name": "space-portfolio",
+  "homepage" : "https://project.edittree.in/",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -9,9 +10,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Girish Sharm",
+    "email": "contact@edittree.in",
+    "url": "https://edittree.in"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
